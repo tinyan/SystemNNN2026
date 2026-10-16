@@ -46,8 +46,8 @@
     <TargetName>nyanLib2026D</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <OutDir>..\..\systemNNNLib\</OutDir>
-    <TargetName>nyanLib2017</TargetName>
+    <OutDir>..\..\systemNNNLib2026\</OutDir>
+    <TargetName>nyanLib2026</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
